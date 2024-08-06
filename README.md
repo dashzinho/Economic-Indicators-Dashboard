@@ -20,6 +20,7 @@ The dashboard uses the following data:
 - **S&P 500 Index:** S&P 500 stock index data (monthly frequency).
 
 ## Setup
+streamlit run main.py
 
 ### Prerequisites
 
@@ -33,12 +34,11 @@ You will need to install the following Python packages:
 
 You can install these dependencies using pip:
 
-```bash
-pip install pandas yfinance matplotlib seaborn streamlit numpy
+`pip install pandas yfinance matplotlib seaborn streamlit numpy`
 
-## RUN on cmd
+## Run on cmd
 
-streamlit run main.py
+`streamlit run main.py`
 
 
 
